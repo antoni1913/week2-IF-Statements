@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\bin\Debug\net6.0\week2ifstatements.exe
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\bin\Debug\net6.0\week2ifstatements.deps.json
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\bin\Debug\net6.0\week2ifstatements.runtimeconfig.json
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\bin\Debug\net6.0\week2ifstatements.dll
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\bin\Debug\net6.0\week2ifstatements.pdb
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\obj\Debug\net6.0\week2ifstatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\obj\Debug\net6.0\week2ifstatements.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\obj\Debug\net6.0\week2ifstatements.AssemblyInfo.cs
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\obj\Debug\net6.0\week2ifstatements.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\obj\Debug\net6.0\week2ifstatements.dll
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\obj\Debug\net6.0\refint\week2ifstatements.dll
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\obj\Debug\net6.0\week2ifstatements.pdb
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\obj\Debug\net6.0\week2ifstatements.genruntimeconfig.cache
+C:\Users\user\source\repos\week2ifstatements\week2ifstatements\obj\Debug\net6.0\ref\week2ifstatements.dll
